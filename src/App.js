@@ -14,7 +14,7 @@ class App extends React.Component {
   render() {
     return (
       <div className="App">
-        <h1>React Redux Weather Forecast App</h1>
+        <h1>Weather Forecast Web App</h1>
         <ThemeChanger />
         <LogoHeader />
         <SearchBar />

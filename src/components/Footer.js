@@ -8,13 +8,9 @@ const Footer = () => {
     return (
       <footer>
         <p>
-          <a
-            className="footer-link"
-            href="_target"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            @aravindhalahalli.81@gmail.com
+          <a href="_target">
+            Developed By: &nbsp; ReactJS, &nbsp;Redux, &nbsp;DarkskyAPI,
+            &nbsp;openstreetmap API used.
           </a>
         </p>
       </footer>
