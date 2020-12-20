@@ -130,7 +130,7 @@ export function searchLocation(name, searchTerm) {
             return `https://nominatim.openstreetmap.org/search?q=${cityValue}&limit=50&format=json`
          },
          zipValue: function(zipValue){
-            return `https://nominatim.openstreetmap.org/search?postalcode=${zipValue}&country=US&limit=50&format=json`
+            return `https://nominatim.openstreetmap.org/search?postalcode=${zipValue}&country=In&limit=50&format=json`
          }
       },
       international: {

@@ -44,5 +44,5 @@
     "node-sass": "^4.13.1",
     "redux-devtools-extension": "^2.13.8"
   },
-  "homepage": ""
+  "homepage": "https://github.com/aravindhalahalli/react-redux-weather-app"
 }
