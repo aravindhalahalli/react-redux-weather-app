@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/aravindhalahalli/react-redux-weather-app/static/css/main.eb67e578.chunk.css",
+    "main.js": "/aravindhalahalli/react-redux-weather-app/static/js/main.1fbeab74.chunk.js",
+    "main.js.map": "/aravindhalahalli/react-redux-weather-app/static/js/main.1fbeab74.chunk.js.map",
+    "runtime-main.js": "/aravindhalahalli/react-redux-weather-app/static/js/runtime-main.b293029e.js",
+    "runtime-main.js.map": "/aravindhalahalli/react-redux-weather-app/static/js/runtime-main.b293029e.js.map",
+    "static/js/2.b4c9cb5c.chunk.js": "/aravindhalahalli/react-redux-weather-app/static/js/2.b4c9cb5c.chunk.js",
+    "static/js/2.b4c9cb5c.chunk.js.map": "/aravindhalahalli/react-redux-weather-app/static/js/2.b4c9cb5c.chunk.js.map",
+    "index.html": "/aravindhalahalli/react-redux-weather-app/index.html",
+    "precache-manifest.9ecaed4855f022975228e36137eb527e.js": "/aravindhalahalli/react-redux-weather-app/precache-manifest.9ecaed4855f022975228e36137eb527e.js",
+    "service-worker.js": "/aravindhalahalli/react-redux-weather-app/service-worker.js",
+    "static/css/main.eb67e578.chunk.css.map": "/aravindhalahalli/react-redux-weather-app/static/css/main.eb67e578.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b293029e.js",
+    "static/js/2.b4c9cb5c.chunk.js",
+    "static/css/main.eb67e578.chunk.css",
+    "static/js/main.1fbeab74.chunk.js"
+  ]
+}
